@@ -1,1 +1,1 @@
-sub a b
+sub a b s
